@@ -1,6 +1,18 @@
 * {
     box-sizing: border-box;
 }
+@font-face {
+    font-family: 'Norse';
+    src: url('assets/Norse.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Norse';
+    src: url('assets/Norsebold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
 body {
     margin: 0px;
     padding: 0px;

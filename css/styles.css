@@ -33,12 +33,10 @@ body {
 .section {
     overflow: clip;
     position: relative;
+    background: white;
 }
 .section:first-child {
-
-}
-.section:first-child #leaves {
-    
+    background: white url('../images/leaves.avif');
 }
 #logo-banner {
     position: absolute;
@@ -59,5 +57,5 @@ body {
     font-size: 4em;
 }
 .section:nth-child(2) {
-    
+
 }

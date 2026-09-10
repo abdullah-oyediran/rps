@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    background: rgb(160, 148, 148);
+}
+
+#app {
+    border: 2px solid red;
+    width: 70%;
+    height: 200px;
+}
